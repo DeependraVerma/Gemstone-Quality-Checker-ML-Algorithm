@@ -30,7 +30,11 @@ list_of_files = [
     f"test/integration/__init__.py",
     "experiment/experiment.ipynb",
     f"{project_name}/constant/__init__.py",
-    f"{project_name}/constant/training_pipeline/__init__.py"
+    f"{project_name}/constant/training_pipeline/__init__.py",
+    "setup.cfg",
+    "init_setup.sh",
+    "tox.ini",
+    "pyproject.toml"
 ]
 
 
